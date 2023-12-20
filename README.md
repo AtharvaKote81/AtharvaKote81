@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Computer Engineer | Programming Enthusiast</h3>
 <img align ="right" alt="coding gif" width ="400px" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m Currently Studying at <b>Sanjivani College Of Engineering,Kopargaon</b>
+- ♾️ I’m Currently Studying at <b>Sanjivani College Of Engineering,Kopargaon</b>
 
-- 🌱 I’m currently Pursuing **B.TECH IN Computer Science**
+- 🚀 I’m Currently Pursuing **B.TECH IN Computer Science**
 
-- 💬 Ask me about **Tech Community, C Programming Languages,Front End Development Languages**
+- 💬 Ask Me About **Tech Community, C Programming Languages,Front End Development Languages**
 
-- 📫 How to reach me **atharvkote3@gmail.com**
+- 📫 How To Reach Me **atharvkote3@gmail.com**
 
 - 📄 Find Me Online On LinkedIn [https://www.linkedin.com/in/atharva-kote-b06287288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/atharva-kote-b06287288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
