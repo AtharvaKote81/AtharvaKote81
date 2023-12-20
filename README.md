@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atharva kote" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="atharva kote" height="30" width="40" /></a>
-<a href="https://instagram.com/___atharv_81" target="blank"><img align="center" src="https://iconscout.com/free-icon/instagram-1868978" alt="___atharv_81" height="30" width="40" /></a>
+<a href="https://instagram.com/___atharv_81" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="___atharv_81" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/atharv kote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="atharv kote" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/atharvkote3" target="blank"><img align="center" src="https://en.m.wikipedia.org/wiki/File:Codechef(new)_logo.svg" alt="atharvkote3" height="30" width="40" /></a>
 </p>
